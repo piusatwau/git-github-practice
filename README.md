@@ -18,3 +18,17 @@ for commiting all the changes
 ## ssh-keygen -t ed25519
 
 for creating ssh key
+
+## creating new branch
+
+git branch "branch-name"
+
+## switching to new branch
+
+git checkout "branch-name"
+
+## creating and swtching to new branch simultaneously
+
+git checkout -b "branch-name
+
+
